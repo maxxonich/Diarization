@@ -6,7 +6,7 @@ This repository contains a Python script for speaker diarization using `pyannote
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/speaker-diarization.git
+    git clone https://github.com/maxxonich/Diarization.git
     cd speaker-diarization
     ```
 
